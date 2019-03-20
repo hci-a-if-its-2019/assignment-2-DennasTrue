@@ -26,34 +26,21 @@ In the last Version ,I planned to add new search function that filter the genres
 
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+
+I choose Solution 3 because It's the the simplest and can be easily accessed anywhere which is crucial for entertaiment website. Solution 3 also easiest to understand and easy to use for new user who accessed the website.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+For me A bad design is a design where the user itself have hard time to use certain website and a Website should be friendly toward both phone and website user.Since A good website should be easy to understand and simple to use so user would continue to use that website.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+Operating System : Windows,IoS,linux,Android.
+Physical Input : Keyboard,Touch screen
+Screen Size : 15.6 inch for computer,5-6.5 inch for smartphone
+Screen Resolution : Min (1366 x 768) or higher with screen ration of 16:9,
+Screen Color Space : RGB
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+ The user is also expected to be familiar with modern web browser such as Mozilla Firefox and Google Chrome. The user is also expected to be 18 years old ,the age where you have either phone or pc even both. The user also expected to understand what is genre for using the website to the fullest.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
