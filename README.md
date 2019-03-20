@@ -11,9 +11,14 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 Be sure to label the different versions so you can differentiate them in your discussion. 
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
-
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
-
+##### Base Sketch
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-DennasTrue/blob/master/5302.jpg)
+##### Solution Sketch
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-DennasTrue/blob/master/5303.jpg)
+##### Solution 1
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-DennasTrue/blob/master/5306.jpg)
+##### Solution 2-3
+![Scan/Photo of Sketches](https://github.com/hci-a-if-its-2019/assignment-2-DennasTrue/blob/master/5305.jpg)
 ### 2. Version Differences
 #### Original
 The Original website novels tab have novels sorted with default sorting which was enough if the website only have 20 or less novel then it will be enough. But the website contains at least  300 novels and there is no other option than alphabet sorting,date,and Favorite novels.It will be hard to found a novel with certain genre when you browsing throught the nover list or impossible,since there is too much sub genre.The sub genre also hinder the user to search for certain novel ,since it have redirection link to filtered sorting with the novel only with that genre.
