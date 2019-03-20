@@ -15,9 +15,15 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+#### Original
+The Original website novels tab have novels sorted with default sorting which was enough if the website only have 20 or less novel then it will be enough. But the website contains at least  300 novels and there is no other option than alphabet sorting,date,and Favorite novels.It will be hard to found a novel with certain genre when you browsing throught the nover list or impossible,since there is too much sub genre.The sub genre also hinder the user to search for certain novel ,since it have redirection link to filtered sorting with the novel only with that genre.
+#### Solution 1
+In this version,I propose to add new function beside novel sorting.The function is filter,it's function is to filter certain genre.One Clicked it will expanded and show us list of genre with the dots on the left on the genre.You can click multiple dots to only show user novel with have certain  genres both of sub and main genre. Not only that you can click the dots twice and it will become X and that genre won't be shown and minimize the result.
+#### Solution 2
+This time,I propose to hide sub genre ,and only show it when you open the novel mainpage.The reason for this was because sometimes it was accessed by certain unexperienced user and they are confused by multiple genres of novel haves .They come to the website because they already known the name of novels or read novel based on the ranking of favorite novel which is set as default for original version. By hiding it ,The won't question the novel genres and pick based on popular pick or novel with highest Favorite.
+#### Solution 3
+In the last Version ,I planned to add new search function that filter the genres like the Solution one,but easier to understand for inexperienced user.This version mainly  for mobile user since it's easier for phone  user to filter by words they type and they want the website to be easy to understand. The solution 3 can minimize the result but not that much compared to solution 1.
+
 
 ### 3. Selected Sketch
 ```
