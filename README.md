@@ -48,4 +48,4 @@ Screen Color Space : RGB
  The user is also expected to be familiar with modern web browser such as Mozilla Firefox and Google Chrome. The user is also expected to be 18 years old ,the age where you have either phone or pc even both. The user also expected to understand what is genre for using the website to the fullest.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+https://invis.io/NSR8VBO3P4Z#/354825293_Capture1.
